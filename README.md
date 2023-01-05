@@ -1,6 +1,6 @@
 ![MasterHead](https://avatars.mds.yandex.net/i?id=969abea3d83cf37448381aa7bd772496c449203b-8148275-images-thumbs&n=13)
 <h1 align="center">Hi 👋, I'm Hasan Ucar</h1>
-<h3 align="center">A passionate Test Engineer developer from Turkiye</h3>
+<h3 align="center">A passionate Test Engineer developer from Deutschland</h3>
 <img align="right" alt="Coding" width="400" src="https://avatars.mds.yandex.net/i?id=a4e61c8ca13143145c8d35b51ffc603a0b84f979-8194143-images-thumbs&n=13">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanucarim&label=Profile%20views&color=0e75b6&style=flat" alt="hasanucarim" /> </p>
@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/@hsnucrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hsnucrm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hasan uçar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan uçar" height="30" width="40" /></a>
+<a href="https://discord.gg/Hasan Uçar#9884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hasan Uçar#9884" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
