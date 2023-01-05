@@ -1,5 +1,8 @@
-# Selenium_Indigo_Automation
-Indigo Automation Project Using Selenium Java Framework
-The aim of the automation is to automate the purchasing of a good through Indigo.ca
-The program does search for the specified book and adds to cart the booked searched.
-It also logins, and gets the user to Shipping and Paying section automatically within seconds.
+# Employee List
+I'm currently working on Employee list,
+I'm looking to collarate on creating a big structure
+You can reach me on wellglobaltrade@gmail.com
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
